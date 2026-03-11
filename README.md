@@ -1,1 +1,3 @@
-# dokkee_frontend
+# Fix ветка проекта DocsCheck
+Сервис проверки юридических документов DocsCheck
+
